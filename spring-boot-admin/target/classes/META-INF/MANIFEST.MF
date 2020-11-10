@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: lucia
+Build-Jdk: 14.0.1
+Implementation-Title: spring-boot-admin
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.luciano
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-admin
+Created-By: Maven Integration for Eclipse
+
