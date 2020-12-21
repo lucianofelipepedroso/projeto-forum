@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Built-By: lucia
-Build-Jdk: 14.0.1
+Build-Jdk: 15
 Implementation-Title: spring-boot-admin
 Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: br.com.luciano
